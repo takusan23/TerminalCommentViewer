@@ -5,6 +5,8 @@ Rustくんで作った(CLI)アプリは配布が簡単って聞いたんです�
 
 Linuxとかだと話が変わってくるんだと思いました。
 
+![Imgur](https://imgur.com/jaiF1hG.png)
+
 # 使い方
 
 ## なんかしらんけど VCRUNTIME140.dll が必要な模様
